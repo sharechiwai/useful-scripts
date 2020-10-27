@@ -1,0 +1,1 @@
+﻿ffmpeg -hwaccel cuda -i VTS_01_1.VOB -c:v copy -c:a copy output.mpg  
