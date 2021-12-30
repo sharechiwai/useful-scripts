@@ -1,2 +1,2 @@
-﻿ffmpeg -hwaccel cuda -i 20190513_120612.mp4 -filter:v "setpts=PTS/40" -an 20190513_120612_timelapse.mp4
+﻿ffmpeg -hwaccel cuda -i 20210709_184422.mp4 -filter:v "setpts=PTS/9" -an 20210709_184422_timelapse.mp4
 
